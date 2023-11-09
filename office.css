@@ -1,0 +1,111 @@
+body {
+    /* margin-right: 0%; */
+    margin: 1%;
+}
+
+.container1 {
+    /* border: 2px solid; */
+    /* background-color: rgb(179, 215, 215); */
+    /* color: rgb(179, 215, 215); */
+    height: 1200px;
+    width: 98.4em;
+    background-image: url(mini-profile-bg-01.jpg);
+    display: grid;
+    /* grid-template-rows: 20px; */
+    align-content: center;
+    justify-content: end;
+    align-items: center;
+    justify-items: center;
+
+}
+
+.box1 {
+    color: white;
+    /* margin-left: 63.5%; */
+    background-color: rgb(0, 0, 0, 0.6);
+    margin-top: 7%;
+    position: absolute;
+    left: 63.36%;
+    top: 46%;
+}
+
+#one {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 5em;
+    padding: 50px 49px 8px 96px;
+    margin-top: 104px;
+}
+
+#two {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 25px;
+    padding-bottom: 54px;
+    padding-left: 61px;
+    font-weight: normal;
+    margin: 3px 0px 0px -11px;
+}
+
+.box3 {
+    color: grey;
+    background-color: rgba(255, 255, 255, 0.8);
+    position: relative;
+    /* left: -112.2%; */
+    left: -130.2%;
+    top: 115%;
+    /* padding: 11% 6% 10% 176%; */
+    width: 663px;
+    height: 271px;
+    padding-left: 225%;
+    padding-top: 8%;
+    padding-right: 130%;
+    margin-top: 52px;
+    padding-bottom: 101px;
+    padding-right: 1%;
+    padding-left: 35%;
+    width: 244%;
+    margin-top: 11%;
+    margin-left: -14%;
+    margin-right: -94%;
+
+}
+
+.box3 h4 {
+    font-weight: normal;
+    font-size: 35px;
+    margin: 0%;
+}
+
+.box3 p {
+    font-weight: normal;
+    font-size: large;
+}
+
+.box3 .para {
+    margin-top: 20px;
+    padding-left: 20px;
+}
+
+
+.box4 img {
+    height: 63px;
+    width: 84px;
+    /* color: white; */
+    padding: 12% 37%;
+}
+
+.box4 {
+    height: 397px;
+    width: 409px;
+    background-color: rgb(134, 67, 67, 0.8);
+    position: relative;
+    top: 47%;
+    left: -17%;
+    margin: -4.9%;
+}
+
+.box4 p {
+    color: white;
+    padding: 0px 45px;
+    margin: 2px 26px;
+    font-size: medium;
+}
